@@ -108,3 +108,10 @@ p {
   font-family: 'Noto Sans JP', sans-serif;
   box-shadow: 0 0 8px #503d50b6;
 }
+
+.main-title {
+  display: flex;
+ justify-content: center;
+ right: 15px;
+  
+}
